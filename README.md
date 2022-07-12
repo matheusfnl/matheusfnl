@@ -1,7 +1,7 @@
 ## Eai! Eu sou o Matheus 👋😉
 
 <div style="display: inline_block">
-  <img align="right" height="220" src="http://pa1.narvii.com/6818/d13982654612579216bce966a11eda7f53511aea_00.gif">
+  <img align="right" height="200" src="http://pa1.narvii.com/6818/d13982654612579216bce966a11eda7f53511aea_00.gif">
 <div />
 
 - 🔭 Desenvolvedor front-end em crescimento!
