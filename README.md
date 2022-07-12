@@ -21,8 +21,8 @@
 
 <div align="center">
   <a target="_blank" href="https://github.com/matheusfnl">
-  <img alt="matheusfnl-languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfnl&layout=compact&langs_count=7&theme=apprentice"/>
-  <img alt="matheusfnl-stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfnl&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img alt="matheusfnl-languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfnl&layout=compact&langs_count=7&theme=apprentice"/>
+  <img alt="matheusfnl-stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusfnl&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
@@ -36,4 +36,6 @@
   <a href="https://twitter.com/odr_matheus/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /><a/>
 </div>
 
-![Snake animation](https://github.com/matheusfnl/matheusfnl/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/matheusfnl/matheusfnl/blob/output/github-contribution-grid-snake.svg" />
+</div>
