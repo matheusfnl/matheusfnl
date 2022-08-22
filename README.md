@@ -5,7 +5,7 @@
 <div />
 
 - 🔭 Desenvolvedor front-end em crescimento!
-- 🌱 Atualmente estudando **Vue.js** <img height="12px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
+- 🌱 Atualmente estudando **Vue.js** <img height="12px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"> e **Typescript** <img height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png?20210506173343">
 
 ## Linguagens e ferramentas
 
