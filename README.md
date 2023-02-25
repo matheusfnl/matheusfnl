@@ -1,4 +1,8 @@
 ## Eai! Eu sou o Matheus 👋😉
+🌟 Dê uma olhada no meu
+<a target="_blank" href="https://gitlab.com/matheusfunil">
+  GitLab <img src="https://docs.gitlab.com/assets/images/gitlab-logo.svg" height="20em"/> 🌟
+</a>
 
 <div style="display: inline_block">
   <img align="right" height="200" src="http://pa1.narvii.com/6818/d13982654612579216bce966a11eda7f53511aea_00.gif">
