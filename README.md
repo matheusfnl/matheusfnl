@@ -11,14 +11,16 @@
 - 🔭 Desenvolvedor front-end em crescimento!
 - 🌱 Atualmente estudando **Vue.js** <img height="12px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
 
+<img alt="matheusfnl-sass" align="center" height="12px" src="https://code.visualstudio.com/assets/apple-touch-icon.png" />  Baixe meu tema do Visual Studio ➜ [Budokan Official](https://marketplace.visualstudio.com/items?itemName=matheusfunil.budokan-theme)
+
 ## Linguagens e ferramentas
 
 <div style="display: inline_block">
-  <img alt="matheusfnl-javascript" alingn="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="matheusfnl-css" alingn="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="matheusfnl-html5" alingn="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="matheusfnl-vuejs" alingn="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img alt="matheusfnl-sass" alingn="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img alt="matheusfnl-javascript" align="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="matheusfnl-css" align="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="matheusfnl-html5" align="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="matheusfnl-vuejs" align="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img alt="matheusfnl-sass" align="center" width="40px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
 ## Status
