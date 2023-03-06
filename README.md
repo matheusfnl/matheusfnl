@@ -9,9 +9,9 @@
 <div />
 
 - 🔭 Desenvolvedor front-end em crescimento!
-- 🌱 Atualmente estudando **Nuxt.js** <img height="24px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">
+- 🌱 Atualmente estudando **Nuxt.js** <img height="24px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">
 
-<img alt="matheusfnl-sass" align="center" height="18px" src="https://code.visualstudio.com/assets/apple-touch-icon.png" />  Baixe meu tema do Visual Studio ➜  [Budokan Official](https://marketplace.visualstudio.com/items?itemName=matheusfunil.budokan-theme) <img align="center" src="https://matheusfunil.gallerycdn.vsassets.io/extensions/matheusfunil/budokan-theme/1.0.1/1677422622442/Microsoft.VisualStudio.Services.Icons.Default" height="24px"/>
+<img alt="matheusfnl-sass" height="18px" src="https://code.visualstudio.com/assets/apple-touch-icon.png" />  Baixe meu tema do Visual Studio ➜  [Budokan Official](https://marketplace.visualstudio.com/items?itemName=matheusfunil.budokan-theme) <img src="https://matheusfunil.gallerycdn.vsassets.io/extensions/matheusfunil/budokan-theme/1.0.1/1677422622442/Microsoft.VisualStudio.Services.Icons.Default" height="24px"/>
  
 ## Linguagens e ferramentas
 
