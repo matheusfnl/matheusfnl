@@ -25,7 +25,7 @@
 ## Status
 
 <div style="display: inline;">
-  <img align="right" height="170px" src="https://i.pinimg.com/originals/d0/0c/17/d00c17628d6bf86b4f51a2bc1a81a37b.gif">
+  <img align="right" height="160px" src="https://i.pinimg.com/originals/d0/0c/17/d00c17628d6bf86b4f51a2bc1a81a37b.gif">
 </div>
 
 <div align="left">
