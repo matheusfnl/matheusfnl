@@ -30,8 +30,8 @@
 
 <div align="left">
   <a target="_blank" href="https://github.com/matheusfnl">
-  <img alt="matheusfnl-languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfnl&layout=compact&langs_count=7&theme=dracula"/>
-  <img alt="matheusfnl-stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusfnl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img alt="matheusfnl-languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfnl&layout=compact&langs_count=7&theme=dracula"/>
+  <img alt="matheusfnl-stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusfnl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
