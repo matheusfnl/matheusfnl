@@ -12,7 +12,7 @@
 ## Linguagens e ferramentas
 
 <div style="display: inline_block">
-  <img alt="matheusfnl-typescript" align="center" width="32px" height="32px" src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png" />
+  <img alt="matheusfnl-typescript" align="center" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
   <img alt="matheusfnl-javascript" align="center" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="matheusfnl-css" align="center" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="matheusfnl-html5" align="center" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
