@@ -5,7 +5,7 @@
 
 🦊 Dê uma olhada no meu [GitLab](https://gitlab.com/matheusfunil) 🦊
 - 🔭 Desenvolvedor full-stack em crescimento!
-- 🌱 Atualmente estudando **Node.js**
+- 🌱 Atualmente estudando **Laravel**
 
 
 🔮 Baixe meu tema do Visual Studio ➜  [Budokan Official](https://marketplace.visualstudio.com/items?itemName=matheusfunil.budokan-theme)
