@@ -39,7 +39,7 @@
 ## Redes sociais
 
 <div style="display: inline_block">
-  <a href="matheusggco01@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23334?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /><a/>
+  <a href="mailto:contato@matheusfunil.dev"><img src="https://img.shields.io/badge/Gmail-%23334?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /><a/>
   <a href="https://gitlab.com/matheusfunil"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" /><a/>
   <a href="https://www.instagram.com/matheus.funxl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /><a/>
   <a href="https://www.linkedin.com/in/matheusgabrielgco/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /><a/>
