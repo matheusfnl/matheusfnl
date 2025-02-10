@@ -17,6 +17,7 @@
   <img alt="matheusfnl-css" align="center" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="matheusfnl-html5" align="center" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="matheusfnl-nodejs" align="center" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" />
+  <img alt="matheusfnl-laravel" align="center" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
   <img alt="matheusfnl-vuejs" align="center" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img alt="matheusfnl-nuxt" align="center" width="32px" height="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">
   <img alt="matheusfnl-sass" align="center" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
